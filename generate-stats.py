@@ -3,6 +3,7 @@
 #-----------------------------------------------------------------------------------------
 #Developed by Yan Ramos da Silva (yandasilva.com)
 #Generates statistics from data of Marvel characters and the universes where they appear
+#by scraping data from marvel.wikia.com
 #Usage: ./generate-stats.py [n]
 #n: number of entries to plot; defaults to 20.
 #-----------------------------------------------------------------------------------------
